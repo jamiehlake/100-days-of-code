@@ -8,14 +8,13 @@
 
 **Link to work:** [Prank Site](https://twitchknockmeme.000webhostapp.com/knockmeme.jpg)
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+### Day 2: October 12, 2017 
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Started learning C, made the first stage of my new text based detective game. Learned basics of c like vars, if statements, printf, getting inputs. 
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts**: Still find a lot of it confusing, but I am enjoying the learning process. 
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link(s) to work**: [Text Based Game - The Command](https://github.com/jamiehlake/The-Command)
 
 
 ### Day 1: June 27, Monday

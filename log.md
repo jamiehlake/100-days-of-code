@@ -1,5 +1,6 @@
 # 100 Days Of Code - Log
 
+
 ### Day 1: October 11, 2017 
 
 **Today's Progress**: Built a website designed to prank twith streamers with a knocking sound.
@@ -7,6 +8,7 @@
 **Thoughts:** It is a site I've wanted to make for a while and finally did it. Learned a couple new things like adding audio to a webpage and hiding the .htm extension. 
 
 **Link to work:** [Prank Site](https://twitchknockmeme.000webhostapp.com/knockmeme.jpg)
+
 
 ### Day 2: October 12, 2017 
 
@@ -17,12 +19,11 @@
 **Link(s) to work**: [Text Based Game - The Command](https://github.com/jamiehlake/The-Command)
 
 
-### Day 1: June 27, Monday
+### Day 3: October 13, 2017
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: Continued working on my text based game, completed the first outcome. got in more practice for if statements and ints. 
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts** Did not learn anything new today, will hopfully challenge myself a little more tomorrow. 
 
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Link(s) to work**: [Text Based Game - The Command](https://github.com/jamiehlake/The-Command)
+

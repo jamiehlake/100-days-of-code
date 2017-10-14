@@ -27,3 +27,12 @@
 
 **Link(s) to work**: [Text Based Game - The Command](https://github.com/jamiehlake/The-Command)
 
+
+### Day 4: October 14, 2017
+
+**Today's Progress**: Continued working on my text based game, completed the second outcome. got in more practice for if statements and ints and learned while loops. 
+
+**Thoughts** Learned while loops, will hopfully challenge myself a little more tomorrow. 
+
+**Link(s) to work**: [Text Based Game - The Command](https://github.com/jamiehlake/The-Command)
+

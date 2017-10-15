@@ -36,3 +36,11 @@
 
 **Link(s) to work**: [Text Based Game - The Command](https://github.com/jamiehlake/The-Command)
 
+
+### Day 5: October 15, 2017
+
+**Today's Progress**: Continued working on my text based game, completed the first task "Murder on Elm Street". got in more practice for if statements, ints and loops. 
+
+**Thoughts** Did not challenge myself enough, flying out tomorrow so have to pack. Not enough time to learn anything new.  
+
+**Link(s) to work**: [Text Based Game - The Command](https://github.com/jamiehlake/The-Command)

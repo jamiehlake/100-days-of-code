@@ -44,3 +44,11 @@
 **Thoughts** Did not challenge myself enough, flying out tomorrow so have to pack. Not enough time to learn anything new.  
 
 **Link(s) to work**: [Text Based Game - The Command](https://github.com/jamiehlake/The-Command)
+
+### Day 6: October 16, 2017
+
+**Today's Progress**: Continued working on my text based game, Removed the other tasks and cleaned up the first task. Was no longer learning anything with this project so wanted to end it. 
+
+**Thoughts** Was too easy to keep doing, need to challenge myself by learning new things. 
+
+**Link(s) to work**: [Text Based Game - The Command](https://github.com/jamiehlake/The-Command)

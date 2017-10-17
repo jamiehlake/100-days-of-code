@@ -45,6 +45,7 @@
 
 **Link(s) to work**: [Text Based Game - The Command](https://github.com/jamiehlake/The-Command)
 
+
 ### Day 6: October 16, 2017
 
 **Today's Progress**: Continued working on my text based game, Removed the other tasks and cleaned up the first task. Was no longer learning anything with this project so wanted to end it. 
@@ -52,3 +53,12 @@
 **Thoughts** Was too easy to keep doing, need to challenge myself by learning new things. 
 
 **Link(s) to work**: [Text Based Game - The Command](https://github.com/jamiehlake/The-Command)
+
+
+### Day 7: October 17, 2017
+
+**Today's Progress**: Moved over to a new OS (UBUNTU) so learned how to use git in terminal instead of using Github desktop. Watched a lot of explanations for C concepts. 
+
+**Thoughts** Did not do a lot of C but learned a lot. 
+
+**Link(s) to work**: [Learned to use github with terminal](https://github.com/jamiehlake/)

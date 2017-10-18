@@ -62,3 +62,12 @@
 **Thoughts** Did not do a lot of C but learned a lot. 
 
 **Link(s) to work**: [Learned to use github with terminal](https://github.com/jamiehlake/)
+
+
+### Day 8: October 18, 2017
+
+**Today's Progress**: Started a new project to help with BlackJack. Learned some new git commands.  
+
+**Thoughts** Glad I am making a project that will be usful to me. Also happy about using Terminal for git, makes me feel a little uncomfortable, which is good.  
+
+**Link(s) to work**: [BlackJack Helper](https://github.com/jamiehlake/BlackJack-Helper)

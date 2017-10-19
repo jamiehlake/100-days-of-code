@@ -71,3 +71,12 @@
 **Thoughts** Glad I am making a project that will be usful to me. Also happy about using Terminal for git, makes me feel a little uncomfortable, which is good.  
 
 **Link(s) to work**: [BlackJack Helper](https://github.com/jamiehlake/BlackJack-Helper)
+
+
+### Day 9: October 19, 2017
+
+**Today's Progress**: continued with BlackJack Helper, It is a little broken, will try and fix it tomorrow. Started learning about sockets.  
+
+**Thoughts** Starting to struggle. I need strength.  
+
+**Link(s) to work**: [BlackJack Helper](https://github.com/jamiehlake/BlackJack-Helper)

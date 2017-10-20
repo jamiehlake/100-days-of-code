@@ -80,3 +80,12 @@
 **Thoughts** Starting to struggle. I need strength.  
 
 **Link(s) to work**: [BlackJack Helper](https://github.com/jamiehlake/BlackJack-Helper)
+
+
+### Day 10: October 20, 2017
+
+**Today's Progress**: Started working on my Sonoff wifi switches, loading a custom firmware and trying to get an MQTT server thing to work on my Orange Pi.   
+
+**Thoughts** Not much programming, mostly networking. 
+
+

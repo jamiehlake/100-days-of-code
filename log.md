@@ -89,3 +89,10 @@
 **Thoughts** Not much programming, mostly networking. 
 
 
+### Day 11: October 21, 2017
+
+**Today's Progress**: Worked on my server for the Sonoff switches, lots of hors spent on it, hoping to do C tomorrow.    
+
+**Thoughts** Not much programming, mostly networking. 
+
+

@@ -96,3 +96,12 @@
 **Thoughts** Not much programming, mostly networking. 
 
 
+### Day 12: October 22, 2017
+
+**Today's Progress**: continued with BlackJack Helper, fixed the issues and started learning functions in C to shorten the code. Will work on implementing the functions tomorrow.  
+
+**Thoughts** Need to keep learning new things.  
+
+**Link(s) to work**: [BlackJack Helper](https://github.com/jamiehlake/BlackJack-Helper)
+
+

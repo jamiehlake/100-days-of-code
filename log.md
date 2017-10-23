@@ -105,3 +105,10 @@
 **Link(s) to work**: [BlackJack Helper](https://github.com/jamiehlake/BlackJack-Helper)
 
 
+### Day 13: October 23, 2017
+
+**Today's Progress**: Started learning how C turns into machine code to get an idea of how everything works.    
+
+**Thoughts** Finding it helpful to know.
+
+

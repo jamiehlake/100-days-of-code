@@ -112,3 +112,12 @@
 **Thoughts** Finding it helpful to know.
 
 
+### Day 14: October 24, 2017
+
+**Today's Progress**: continued with BlackJack Helper, Program allows users to enter A for Ace. Have the knowledge to complete the program, will keep working on it until bed.  
+
+**Thoughts** Feeling excited and happy to have solved a problem.  
+
+**Link(s) to work**: [BlackJack Helper](https://github.com/jamiehlake/BlackJack-Helper)
+
+

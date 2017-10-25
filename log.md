@@ -121,3 +121,12 @@
 **Link(s) to work**: [BlackJack Helper](https://github.com/jamiehlake/BlackJack-Helper)
 
 
+### Day 15: October 25, 2017
+
+**Today's Progress**: continued with BlackJack Helper, Program allows users to enter A for Ace as well as 10 (did not work before) Learned a few new things which is nice :)
+
+**Thoughts** Feeling excited and happy to have solved a problem. Same as yesterday!  
+
+**Link(s) to work**: [BlackJack Helper](https://github.com/jamiehlake/BlackJack-Helper)
+
+

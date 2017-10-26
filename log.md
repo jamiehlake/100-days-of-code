@@ -130,3 +130,12 @@
 **Link(s) to work**: [BlackJack Helper](https://github.com/jamiehlake/BlackJack-Helper)
 
 
+### Day 16: October 26, 2017
+
+**Today's Progress**: continued with BlackJack Helper, Finished the first stage for double and soft hands. 
+
+**Thoughts** One step at a time. This program will be finished soon.  
+
+**Link(s) to work**: [BlackJack Helper](https://github.com/jamiehlake/BlackJack-Helper)
+
+

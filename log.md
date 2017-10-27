@@ -139,3 +139,12 @@
 **Link(s) to work**: [BlackJack Helper](https://github.com/jamiehlake/BlackJack-Helper)
 
 
+### Day 17: October 27, 2017
+
+**Today's Progress**: continued with BlackJack Helper, Finished the first stage for everything. Now its the second stage (if a player hits or splits) Allows users to enter J Q K instead of just 10 which has fixed an issue where anything worth 10 could be a double when it wasn't. 
+
+**Thoughts** Starting to taste the end of this project. Excited for the next.  
+
+**Link(s) to work**: [BlackJack Helper](https://github.com/jamiehlake/BlackJack-Helper)
+
+

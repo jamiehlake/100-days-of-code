@@ -148,3 +148,12 @@
 **Link(s) to work**: [BlackJack Helper](https://github.com/jamiehlake/BlackJack-Helper)
 
 
+### Day 18: October 28, 2017
+
+**Today's Progress**: continued with BlackJack Helper, Finished the second stage for when a player hits. Will finish it for double before going to bed.  
+
+**Thoughts** Really enjoying it.  
+
+**Link(s) to work**: [BlackJack Helper](https://github.com/jamiehlake/BlackJack-Helper)
+
+

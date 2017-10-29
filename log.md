@@ -157,3 +157,12 @@
 **Link(s) to work**: [BlackJack Helper](https://github.com/jamiehlake/BlackJack-Helper)
 
 
+### Day 19: October 29, 2017
+
+**Today's Progress**: continued with BlackJack Helper, Finished the second stage for double and started working on split. Ran into issues, will try fix them tomorrow.  
+
+**Thoughts** Not a good day.  
+
+**Link(s) to work**: [BlackJack Helper](https://github.com/jamiehlake/BlackJack-Helper)
+
+

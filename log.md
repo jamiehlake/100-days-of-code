@@ -166,3 +166,12 @@
 **Link(s) to work**: [BlackJack Helper](https://github.com/jamiehlake/BlackJack-Helper)
 
 
+### Day 20: October 30, 2017
+
+**Today's Progress**: continued with BlackJack Helper, Finished the programs function. Just need to make it more user friendly.  
+
+**Thoughts** Feels good man.  
+
+**Link(s) to work**: [BlackJack Helper](https://github.com/jamiehlake/BlackJack-Helper)
+
+

@@ -175,3 +175,12 @@
 **Link(s) to work**: [BlackJack Helper](https://github.com/jamiehlake/BlackJack-Helper)
 
 
+### Day 21: October 31, 2017
+
+**Today's Progress**: Finished the blackjack helper! 
+
+**Thoughts** Feels better man.  
+
+**Link(s) to work**: [BlackJack Helper](https://github.com/jamiehlake/BlackJack-Helper)
+
+

@@ -184,3 +184,10 @@
 **Link(s) to work**: [BlackJack Helper](https://github.com/jamiehlake/BlackJack-Helper)
 
 
+### Day 22: November 01, 2017
+
+**Today's Progress**: Added a function to the blackjack helper to reduce the size. Cleaned up some open lines. 
+
+**Thoughts** Learned something new (functions) which is good.
+
+**Link(s) to work**: [BlackJack Helper](https://github.com/jamiehlake/BlackJack-Helper)

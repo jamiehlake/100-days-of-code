@@ -191,3 +191,11 @@
 **Thoughts** Learned something new (functions) which is good.
 
 **Link(s) to work**: [BlackJack Helper](https://github.com/jamiehlake/BlackJack-Helper)
+
+### Day 23: November 02, 2017
+
+**Today's Progress**: Rebuilt the blackjack helper using a 2d array. Halved the lines of code used.
+
+**Thoughts** Learned about 2d arrays. Was a good day of C
+
+**Link(s) to work**: [BlackJack Helper](https://github.com/jamiehlake/BlackJack-Helper)

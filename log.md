@@ -199,3 +199,12 @@
 **Thoughts** Learned about 2d arrays. Was a good day of C
 
 **Link(s) to work**: [BlackJack Helper](https://github.com/jamiehlake/BlackJack-Helper)
+
+
+### Day 24: November 03, 2017
+
+**Today's Progress**: Started learning socket programming. Do not understand it.
+
+**Thoughts** This is difficult.
+
+

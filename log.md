@@ -207,4 +207,10 @@
 
 **Thoughts** This is difficult.
 
+### Day 25: November 04, 2017
+
+**Today's Progress**: Made my first socket. Still do not understand it.
+
+**Thoughts** This is so difficult.
+
 

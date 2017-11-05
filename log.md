@@ -214,3 +214,10 @@
 **Thoughts** This is so difficult.
 
 
+### Day 26: November 05, 2017
+
+**Today's Progress**: started learning about the server side of sockets.
+
+**Thoughts** This is still difficult.
+
+

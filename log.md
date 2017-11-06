@@ -221,3 +221,10 @@
 **Thoughts** This is still difficult.
 
 
+### Day 27: November 06, 2017
+
+**Today's Progress**: Made a server socket and had a successful connection.
+
+**Thoughts** This is still difficult.
+
+

@@ -228,3 +228,12 @@
 **Thoughts** This is still difficult.
 
 
+### Day 28: November 07, 2017
+
+**Today's Progress**: Allowed a user to send his own message to the server.
+
+**Thoughts** This is still difficult.
+
+**Link(s) to work**: [chatApp](https://github.com/jamiehlake/chatApp)
+
+

@@ -237,3 +237,9 @@
 **Link(s) to work**: [chatApp](https://github.com/jamiehlake/chatApp)
 
 
+### Day 29: November 08, 2017
+
+**Today's Progress**: Moved over to Arch Linux and set up my workspace.
+
+**Thoughts** Will continue sockets tomorrow.
+

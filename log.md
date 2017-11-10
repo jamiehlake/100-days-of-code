@@ -243,3 +243,10 @@
 
 **Thoughts** Will continue sockets tomorrow.
 
+
+### Day 30: November 09, 2017
+
+**Today's Progress**: Started learning about http servers with sockets. Will try make one tomorrow.
+
+**Thoughts** Will continue sockets tomorrow.
+

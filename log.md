@@ -250,3 +250,10 @@
 
 **Thoughts** Will continue sockets tomorrow.
 
+
+### Day 31: November 10, 2017
+
+**Today's Progress**: Needed a break from c so did some bootstrap and CS50.
+
+**Thoughts** Will continue sockets on Monday
+

@@ -257,3 +257,10 @@
 
 **Thoughts** Will continue sockets on Monday
 
+
+### Day 32: November 11, 2017
+
+**Today's Progress**: Did some bootstrap. Taking a day off to reset.
+
+**Thoughts** Will continue sockets on Monday
+

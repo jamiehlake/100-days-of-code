@@ -271,3 +271,12 @@
 
 **Thoughts** So far so good. Glad I took the break
 
+
+### Day 34: November 14, 2017
+
+**Today's Progress**: Started making my portfolio website.
+
+**Thoughts** Enjoying web dev again.
+
+**Link(s) to work**: [chatApp](https://codepen.io/jamiehlake/pen/yPXppJ)
+

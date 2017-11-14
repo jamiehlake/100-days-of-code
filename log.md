@@ -264,3 +264,10 @@
 
 **Thoughts** Will continue sockets on Monday
 
+
+### Day 33: November 13, 2017
+
+**Today's Progress**: Finished Bootstrap and jQuery on FreeCodeCamp as well as the tribute page. Read some more on Sockets in C and started a linux course.
+
+**Thoughts** So far so good. Glad I took the break
+

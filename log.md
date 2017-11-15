@@ -278,7 +278,7 @@
 
 **Thoughts** Enjoying web dev again.
 
-**Link(s) to work**: [chatApp](https://codepen.io/jamiehlake/pen/yPXppJ)
+**Link(s) to work**: [Portfolio Website](https://codepen.io/jamiehlake/pen/yPXppJ)
 
 
 ### Day 35: November 15, 2017
@@ -287,4 +287,4 @@
 
 **Thoughts** Want to do some C tomorrow.
 
-**Link(s) to work**: [chatApp](https://codepen.io/jamiehlake/pen/yPXppJ)
+**Link(s) to work**: [Portfolio Website](https://codepen.io/jamiehlake/pen/yPXppJ)
